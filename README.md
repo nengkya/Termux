@@ -1,1 +1,1 @@
-# Termux
+termux-change-repo
